@@ -22,7 +22,7 @@ USER_HOME=$(eval echo ~"$USER")
 
 # Caminho para o prefixo do jogo.
 # ATENÇÃO: Verifique se este caminho corresponde à sua instalação.
-WINEPREFIX_PATH="$USER_HOME/Games/Heroic/Prefixes/default/KINGDOM HEARTS III  Re Mind/pfx"
+WINEPREFIX_PATH="$USER_HOME/Games/Heroic/Prefixes/default/KINGDOM HEARTS III  Re Mind/pfx"
 
 # Caminho para a versão do Proton usada pelo Heroic.
 # ATENÇÃO: Verifique o nome da pasta se usar uma versão diferente de GE-Proton.
