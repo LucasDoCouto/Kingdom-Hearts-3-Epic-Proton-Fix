@@ -4,9 +4,14 @@ A simple script to fix the black screen issue (missing cutscenes) in Kingdom Hea
 
 ## About The Project
 
-This script automates the installation of the Media Foundation (MF) workaround for Wine. It uses the excellent [mf-install script](https://github.com/Kurumi78/mf-install) by z0z0z.
+This project provides a simple, automated solution to fix the black screen and missing cutscene issues in `KINGDOM HEARTS III + Re Mind` on Linux, specifically for users of the Heroic Games Launcher (Flatpak).
 
-The main goal is to provide a one-step solution that doesn't require the user to manually find the correct Wine Prefix or Proton directory for a standard Heroic (Flatpak) installation.
+To ensure stability and long-term availability, this solution is composed of two separate GitHub repositories:
+
+1.  **This Repository (kh3-mf-install):** Contains the user-friendly installer script (`install_mf_kh3.sh`) that automates the entire process.
+2.  **[lucasdocouto/mf-install](https://github.com/LucasDoCouto/mf-install):** A personal, archived fork of the `mf-install` package. This acts as a permanent, stable source for the necessary installation files, guaranteeing they will not change or disappear.
+
+The underlying fix is based on the work of **z0z0z** (the original author of `mf-install`) and **Kurumi78** (who maintained a previous fork). Since those projects are now inactive, this two-repository approach was taken to preserve the solution and provide a reliable, one-step fix that works out-of-the-box for a standard Heroic installation.
 
 ## Getting Started
 
