@@ -25,12 +25,12 @@ Open a terminal and run the following commands.
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/LucasDoCouto/Kingdom-Hearts-3-Epic-Proton-Fix.git](https://github.com/LucasDoCouto/Kingdom-Hearts-3-Epic-Proton-Fix.git)
+    git clone https://github.com/LucasDoCouto/kh3-mf-install
     ```
 
 2.  **Navigate into the new directory:**
     ```bash
-    cd Kingdom-Hearts-3-Epic-Proton-Fix
+    cd kh3-mf-install
     ```
 
 3.  **Make the script executable:**
